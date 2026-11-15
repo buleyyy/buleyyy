@@ -4,7 +4,6 @@
 **Information Systems Student at Universitas Gunadarma | Data Analytics, Web Engineering & UI/UX**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfifauzi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buleyyy)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alfifauzi__)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-alfi-flame.vercel.app/)
 
